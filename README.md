@@ -1,14 +1,14 @@
 # Project Title
-Implement Ceaser Cipher
+Password_Strength_checker
 
 # Project Overview
 Under the Internship program with Prodigy this project is being Completed
 
 # Task Description
-A python program that can encrypt and decrypt text using the Ceaser Cipher Algorithm. Allowing user to input a message and a shift value to perform Encryption and Decryption.
+A python program that can check the strength of user's password. Allowing user to input a password and and check the strength according to different standard's.
 
 # Technologies Used
-This program is using Python as its main language and Ceaser Cypher Algorithm.
+This program is using Python as its main language.
 
 # Installation
 
